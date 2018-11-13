@@ -1,0 +1,1 @@
+docker-compose run --rm maven mvn $1;
